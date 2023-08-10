@@ -1,0 +1,47 @@
+### Module positions - created on Wed Aug  9 19:21:43 2023 ###
+### Printed by Pcbnew version (6.0.10)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val         Package                 PosX       PosY       Rot  Side
+D1        DIODE       D_SOD-123           121.2850   -57.4040  180.0000  top
+D2        DIODE       D_SOD-123           121.4120   -67.9450  180.0000  top
+D3        DIODE       D_SOD-123           121.2850   -77.9780  180.0000  top
+D4        DIODE       D_SOD-123           121.2850   -88.1380  180.0000  top
+D5        DIODE       D_SOD-123           131.9530   -57.4040  180.0000  top
+D6        DIODE       D_SOD-123           131.9530   -67.9450  180.0000  top
+D7        DIODE       D_SOD-123           132.2070   -77.9780  180.0000  top
+D8        DIODE       D_SOD-123           132.2070   -88.1380  180.0000  top
+D9        DIODE       D_SOD-123           142.7480   -57.4040  180.0000  top
+D10       DIODE       D_SOD-123           142.8750   -67.9450  180.0000  top
+D11       DIODE       D_SOD-123           143.1290   -77.9780  180.0000  top
+D12       DIODE       D_SOD-123           143.0020   -88.1380  180.0000  top
+D13       DIODE       D_SOD-123           153.6700   -57.5310  180.0000  top
+D14       DIODE       D_SOD-123           153.6700   -67.9450  180.0000  top
+D15       DIODE       D_SOD-123           153.6700   -77.9780  180.0000  top
+D16       DIODE       D_SOD-123           153.6700   -88.1380  180.0000  top
+R1_330    R_Small_US  R_0603_1608Metric   160.7820   -82.4230  -90.0000  top
+R2_330    R_Small_US  R_0603_1608Metric   160.7820   -72.1360  -90.0000  top
+R3_330    R_Small_US  R_0603_1608Metric   160.7820   -62.7380  -90.0000  top
+R4_330    R_Small_US  R_0603_1608Metric   160.7820   -52.1970  -90.0000  top
+R5_1K1    R_Small_US  R_0603_1608Metric   113.1570   -56.8960  -90.0000  top
+R6_1K1    R_Small_US  R_0603_1608Metric   113.1570   -66.5480  -90.0000  top
+R7_1K1    R_Small_US  R_0603_1608Metric   113.1570   -77.4700  -90.0000  top
+R8_1K1    R_Small_US  R_0603_1608Metric   113.1570   -87.7570  -90.0000  top
+SW1       SW_Push     SW_SPST_TL3305B     120.9870   -52.0940    0.0000  top
+SW2       SW_Push     SW_SPST_TL3305B     120.9480   -62.7140    0.0000  top
+SW3       SW_Push     SW_SPST_TL3305B     120.9870   -73.0010    0.0000  top
+SW4       SW_Push     SW_SPST_TL3305B     120.9040   -83.1850    0.0000  top
+SW5       SW_Push     SW_SPST_TL3305B     131.9530   -52.0940    0.0000  top
+SW6       SW_Push     SW_SPST_TL3305B     131.9970   -62.7140    0.0000  top
+SW7       SW_Push     SW_SPST_TL3305B     131.9970   -73.0250    0.0000  top
+SW8       SW_Push     SW_SPST_TL3305B     131.9970   -83.1850    0.0000  top
+SW9       SW_Push     SW_SPST_TL3305B     142.7920   -52.1970    0.0000  top
+SW10      SW_Push     SW_SPST_TL3305B     142.8750   -62.7380    0.0000  top
+SW11      SW_Push     SW_SPST_TL3305B     142.8750   -73.0250    0.0000  top
+SW12      SW_Push     SW_SPST_TL3305B     142.8750   -83.1850    0.0000  top
+SW13      SW_Push     SW_SPST_TL3305B     153.6700   -52.0700    0.0000  top
+SW14      SW_Push     SW_SPST_TL3305B     153.6700   -62.7380    0.0000  top
+SW15      SW_Push     SW_SPST_TL3305B     153.7140   -73.0250    0.0000  top
+SW16      SW_Push     SW_SPST_TL3305B     153.6700   -83.1850    0.0000  top
+U1        DE10_Lite   DE10_Lite           139.8250   -71.7530    0.0000  top
+## End

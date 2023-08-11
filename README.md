@@ -1,4 +1,4 @@
-# DE10-Lite-Keypad
+# DE10-Lite Keypad
 
 A modern design on a PCB keypad with KiCad to be used on the DE10-Lite FPGA or with other similar device pin headers including the Arduino UNO R3.
 

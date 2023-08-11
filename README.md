@@ -34,4 +34,3 @@ The repository is organized as follows:
 
 ## License
 This is published under the [MIT License](https://opensource.org/licenses/MIT).
-
